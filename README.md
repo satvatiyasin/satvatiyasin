@@ -1,72 +1,99 @@
-[![Angular Senior Certificate](https://img.shields.io/badge/Angular_Certified-Senior-DD0031?style=for-the-badge&logo=angular&logoColor=white&labelColor=7B1A1A)](https://certificates.dev/angular/certificates/0cd5d693-a93d-4209-b8fe-15bcf5a71a89)
-<h1 align="center">Hi, I'm Yasin 👋</h1>
+<h1 align="center">Hey, I'm Yasin Satvati 👋</h1>
 
 <h3 align="center">
 Senior Software Engineer · Angular Tech Lead · Full-Stack Engineer
 </h3>
 
 <p align="center">
-  Building scalable web platforms with Angular, NestJS and TypeScript.
+Building scalable products with Angular, NestJS and TypeScript.
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yasin-satvati">LinkedIn</a>
-  ·
-  <a href="YOUR_MEDIUM_URL">Medium</a>
+  <a href="https://certificates.dev/angular/certificates/0cd5d693-a93d-4209-b8fe-15bcf5a71a89">
+    <img src="https://img.shields.io/badge/Certified-Senior_Angular_Developer-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Experience-7%2B_Years-24292F?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Software_Architecture-3178C6?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/yasin-satvati">
+    <img src="https://img.shields.io/badge/LinkedIn-Yasin_Satvati-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-* 🅰️ Specialized in **Angular architecture & performance**
-* ⚡ Building production systems with **NestJS & Node.js**
-* 🏗️ Interested in **SaaS, multi-tenancy, CQRS and distributed systems**
-* 👥 Experienced in **technical leadership and engineering teams**
+* 🅰️ Specialized in **Angular architecture, performance and large-scale applications**
+* ⚡ Building production backend systems with **NestJS & Node.js**
+* 🏗️ Working with **multi-tenancy, CQRS and event-driven architecture**
+* 🧩 Experienced with **micro-frontends and distributed systems**
+* 👥 Led engineering teams while remaining hands-on with architecture and code
 * 🚀 Currently building a multi-tenant e-commerce SaaS platform
 * ✍️ Writing about Angular, NestJS and software architecture
 
 ---
 
-### 🛠️ Tech
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=angular,ts,js,nestjs,nodejs,postgres,mongodb,redis,rabbitmq,docker,git,github&perline=12" />
+</p>
+
+#### Frontend
+
+`Angular` · `TypeScript` · `RxJS` · `Signals` · `NgRx` · `Nx`
+
+#### Backend
+
+`NestJS` · `Node.js` · `REST APIs` · `CQRS`
+
+#### Architecture
+
+`Micro Frontends` · `Multi-Tenant SaaS` · `Event-Driven Systems` · `Microservices`
+
+#### Data & Infrastructure
+
+`PostgreSQL` · `MongoDB` · `Redis` · `RabbitMQ` · `Docker`
+
+---
+
+### 🏆 Expertise
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=angular,ts,js,nestjs,nodejs,postgres,mongodb,redis,rabbitmq,docker,git,github" />
+<a href="https://certificates.dev/angular/certificates/0cd5d693-a93d-4209-b8fe-15bcf5a71a89">
+  <img src="https://img.shields.io/badge/Angular-Senior_Certified-DD0031?style=flat-square&logo=angular&logoColor=white" />
+</a>
+
+<img src="https://img.shields.io/badge/Angular-7%2B_Years-DD0031?style=flat-square&logo=angular&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Role-Tech_Lead-181717?style=flat-square&logo=github&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Specialization-Frontend_Architecture-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Backend-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Architecture-Multi--Tenant_SaaS-5C2D91?style=flat-square" />
 
 </p>
 
 ---
 
-### 📊 GitHub
+### ⚡ Engineering Highlights
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=satvatiyasin&show_icons=true&hide_border=true"
-    height="165"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=satvatiyasin&layout=compact&hide_border=true"
-    height="165"
-  />
-</p>
+`67%` **bundle-size reduction** · `40%` **performance improvement** · `90+` **Lighthouse scores** · `5+` **products sharing frontend architecture**
 
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=satvatiyasin&hide_border=true"
-  />
-</p>
+---
+
+### 📊 GitHub Activity
+
+For now, I recommend using GitHub's native contribution graph and pinned repositories rather than relying on unstable third-party stats services.
 
 ---
 
 ### 🤝 Let's Connect
 
-I'm open to opportunities involving:
-
-**Angular · Technical Leadership · Full-Stack Engineering · SaaS Architecture**
-
-<p>
-  <a href="https://www.linkedin.com/in/yasin-satvati">
-    <img src="https://img.shields.io/badge/LinkedIn-Yasin%20Satvati-blue?style=flat-square&logo=linkedin" />
-  </a>
-</p>
+Open to opportunities involving **Angular, Technical Leadership, Full-Stack Engineering and SaaS Architecture**.
