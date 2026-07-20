@@ -66,17 +66,17 @@ Building scalable products with Angular, NestJS and TypeScript.
 
 ---
 
-### ⚡ Engineering Highlights
+### 🏆 Engineering Highlights
 
-`67%` **bundle-size reduction** · `40%` **performance improvement** · `90+` **Lighthouse scores** · `5+` **products sharing frontend architecture**
+<p align="center"> <img src="https://img.shields.io/badge/Experience-7%2B_Years-181717?style=for-the-badge" /> <img src="https://img.shields.io/badge/Bundle_Size-↓_67%25-181717?style=for-the-badge" /> <img src="https://img.shields.io/badge/Performance-↑_40%25-181717?style=for-the-badge" /> <img src="https://img.shields.io/badge/Lighthouse-90%2B-181717?style=for-the-badge" /> </p>
+
+<p align="center"> Architected shared frontend foundations across <strong>5+ products</strong> and led engineering teams while remaining an active contributor. </p>
 
 ---
 
-### 📊 GitHub Activity
+### 📊 GitHub
 
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=satvatiyasin&hide_border=true" alt="GitHub Streak" /> </p>
-
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=satvatiyasin&hide_border=true&area=true" width="100%" alt="GitHub Activity Graph" /> </p>
+<p align="center"> <img src="https://github-stats-extended.vercel.app/api?username=satvatiyasin&show_icons=true&hide_border=true&rank_icon=github" height="170" alt="Yasin Satvati GitHub Stats" /> <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=satvatiyasin&layout=compact&hide_border=true" height="170" alt="Yasin Satvati Top Languages" /> </p>
 
 ---
 
