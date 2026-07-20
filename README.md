@@ -44,42 +44,54 @@ Building scalable products with Angular, NestJS and TypeScript.
 
 ---
 
-### 🏆 Expertise
+### 🎯 Core Expertise
 
-<p align="left">
+<p align="center">
+  <img src="https://img.shields.io/badge/Angular-Architecture-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-Backend_Architecture-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/SaaS-Multi--Tenant_Architecture-181717?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Leadership-Tech_Lead-3178C6?style=for-the-badge" />
+</p>
 
-<a href="https://certificates.dev/angular/certificates/0cd5d693-a93d-4209-b8fe-15bcf5a71a89">
-  <img src="https://img.shields.io/badge/Angular-Senior_Certified-DD0031?style=flat-square&logo=angular&logoColor=white" />
-</a>
-
-<img src="https://img.shields.io/badge/Angular-7%2B_Years-DD0031?style=flat-square&logo=angular&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Role-Tech_Lead-181717?style=flat-square&logo=github&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Specialization-Frontend_Architecture-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Backend-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Architecture-Multi--Tenant_SaaS-5C2D91?style=flat-square" />
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Micro_Frontends-Large--Scale_UI-5C2D91?style=flat-square" />
+  <img src="https://img.shields.io/badge/Architecture-CQRS_&_Event--Driven-24292F?style=flat-square" />
+  <img src="https://img.shields.io/badge/TypeScript-Production_Systems-3178C6?style=flat-square&logo=typescript&logoColor=white" />
 </p>
 
 ---
 
 ### 🏆 Engineering Highlights
 
-<p align="center"> <img src="https://img.shields.io/badge/Experience-7%2B_Years-181717?style=for-the-badge" /> <img src="https://img.shields.io/badge/Bundle_Size-↓_67%25-181717?style=for-the-badge" /> <img src="https://img.shields.io/badge/Performance-↑_40%25-181717?style=for-the-badge" /> <img src="https://img.shields.io/badge/Lighthouse-90%2B-181717?style=for-the-badge" /> </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Bundle_Size-↓_67%25-181717?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Performance-↑_40%25-181717?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Lighthouse-90%2B-181717?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Shared_Architecture-5%2B_Products-181717?style=for-the-badge" />
+</p>
 
-<p align="center"> Architected shared frontend foundations across <strong>5+ products</strong> and led engineering teams while remaining an active contributor. </p>
+<p align="center">
+Architected shared frontend foundations across <strong>5+ products</strong> and led engineering teams while remaining an active contributor.
+</p>
 
 ---
 
-### 📊 GitHub
+#### Engineering Articles
 
-<p align="center"> <img src="https://github-stats-extended.vercel.app/api?username=satvatiyasin&show_icons=true&hide_border=true&rank_icon=github" height="170" alt="Yasin Satvati GitHub Stats" /> <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=satvatiyasin&layout=compact&hide_border=true" height="170" alt="Yasin Satvati Top Languages" /> </p>
+I write practical articles about production Angular, NestJS and software architecture, with a focus on problems that appear in real-world applications.
+
+Topics include:
+
+`Angular` `TypeScript` `Signals` `RxJS` `Dependency Injection` `Performance` `NestJS` `CQRS`
 
 ---
 
 ### 🤝 Let's Connect
 
 Open to opportunities involving **Angular, Technical Leadership, Full-Stack Engineering and SaaS Architecture**.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/yasin-satvati">
+    <img src="https://img.shields.io/badge/Let's_Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
