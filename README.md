@@ -53,7 +53,7 @@ Senior Software Engineer · Angular Tech Lead · Full-Stack Engineer
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=satvatiyasin&hide_border=true"
   />
 </p>
 
