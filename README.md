@@ -74,7 +74,9 @@ Building scalable products with Angular, NestJS and TypeScript.
 
 ### 📊 GitHub Activity
 
-For now, I recommend using GitHub's native contribution graph and pinned repositories rather than relying on unstable third-party stats services.
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=satvatiyasin&hide_border=true" alt="GitHub Streak" /> </p>
+
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=satvatiyasin&hide_border=true&area=true" width="100%" alt="GitHub Activity Graph" /> </p>
 
 ---
 
