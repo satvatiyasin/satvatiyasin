@@ -20,6 +20,10 @@ Building scalable products with Angular, NestJS and TypeScript.
   <a href="https://www.linkedin.com/in/yasin-satvati">
     <img src="https://img.shields.io/badge/LinkedIn-Yasin_Satvati-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
+
+  <a href="https://medium.com/@satvatiyasin">
+    <img src="https://img.shields.io/badge/Medium-Yasin_Satvati-000000?style=flat-square&logo=medium&logoColor=white" />
+  </a>
 </p>
 
 ---
