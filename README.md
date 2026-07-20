@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Yasin Satvati 👋</h1>
 
 <h3 align="center">
-Senior Software Engineer · Angular Tech Lead · Full-Stack Engineer
+Senior Software Engineer · Angular Lead · Full-Stack Engineer
 </h3>
 
 <p align="center">
@@ -50,7 +50,7 @@ Building scalable products with Angular, NestJS and TypeScript.
   <img src="https://img.shields.io/badge/Angular-Architecture-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
   <img src="https://img.shields.io/badge/NestJS-Backend_Architecture-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
   <img src="https://img.shields.io/badge/SaaS-Multi--Tenant_Architecture-181717?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Leadership-Tech_Lead-3178C6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Role-Frontend_Lead-3178C6?style=for-the-badge&logo=angular&logoColor=white" />
 </p>
 
 <p align="center">
@@ -88,7 +88,7 @@ Topics include:
 
 ### 🤝 Let's Connect
 
-Open to opportunities involving **Angular, Technical Leadership, Full-Stack Engineering and SaaS Architecture**.
+Open to opportunities involving **Angular, Frontend Leadership, Full-Stack Engineering and SaaS Architecture**.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yasin-satvati">
