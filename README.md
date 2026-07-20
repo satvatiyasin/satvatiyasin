@@ -38,34 +38,15 @@ Senior Software Engineer · Angular Tech Lead · Full-Stack Engineer
 
 ---
 
-### 🔥 Current Focus
-
-```ts
-const yasin = {
-  frontend: ["Angular", "RxJS", "Signals", "NgRx", "Nx"],
-  backend: ["NestJS", "Node.js"],
-  architecture: [
-    "Multi-Tenant SaaS",
-    "CQRS",
-    "Event-Driven Systems",
-    "Micro Frontends",
-  ],
-  databases: ["PostgreSQL", "MongoDB", "Redis"],
-  currentlyBuilding: "ShopBama 🚀",
-};
-```
-
----
-
 ### 📊 GitHub
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=satvatiyasin&show_icons=true&hide_border=true"
     height="165"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=satvatiyasin&layout=compact&hide_border=true"
     height="165"
   />
 </p>
