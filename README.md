@@ -42,22 +42,6 @@ Building scalable products with Angular, NestJS and TypeScript.
   <img src="https://skillicons.dev/icons?i=angular,ts,js,nestjs,nodejs,postgres,mongodb,redis,rabbitmq,docker,git,github&perline=12" />
 </p>
 
-#### Frontend
-
-`Angular` · `TypeScript` · `RxJS` · `Signals` · `NgRx` · `Nx`
-
-#### Backend
-
-`NestJS` · `Node.js` · `REST APIs` · `CQRS`
-
-#### Architecture
-
-`Micro Frontends` · `Multi-Tenant SaaS` · `Event-Driven Systems` · `Microservices`
-
-#### Data & Infrastructure
-
-`PostgreSQL` · `MongoDB` · `Redis` · `RabbitMQ` · `Docker`
-
 ---
 
 ### 🏆 Expertise
